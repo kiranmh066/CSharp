@@ -1,0 +1,9 @@
+C:\csharp\HospitalManagementSystem\HospitalManagementSystemData\bin\Debug\HospitalManagementSystemData.dll
+C:\csharp\HospitalManagementSystem\HospitalManagementSystemData\bin\Debug\HospitalManagementSystemData.pdb
+C:\csharp\HospitalManagementSystem\HospitalManagementSystemData\obj\Debug\HospitalManagementSystemData.csproj.AssemblyReference.cache
+C:\csharp\HospitalManagementSystem\HospitalManagementSystemData\obj\Debug\HospitalManagementSystemData.csproj.CoreCompileInputs.cache
+C:\csharp\HospitalManagementSystem\HospitalManagementSystemData\obj\Debug\HospitalManagementSystemData.dll
+C:\csharp\HospitalManagementSystem\HospitalManagementSystemData\obj\Debug\HospitalManagementSystemData.pdb
+C:\csharp\HospitalManagementSystem\HospitalManagementSystemData\bin\Debug\HospitalManagementSystemEntity.dll
+C:\csharp\HospitalManagementSystem\HospitalManagementSystemData\bin\Debug\HospitalManagementSystemEntity.pdb
+C:\csharp\HospitalManagementSystem\HospitalManagementSystemData\obj\Debug\HospitalManagementSystemData.csproj.CopyComplete
