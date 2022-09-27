@@ -1,0 +1,10 @@
+C:\csharp\BookShow\BookShowBLL\bin\Debug\netcoreapp3.1\BookShowBLL.deps.json
+C:\csharp\BookShow\BookShowBLL\bin\Debug\netcoreapp3.1\BookShowBLL.dll
+C:\csharp\BookShow\BookShowBLL\bin\Debug\netcoreapp3.1\BookShowBLL.pdb
+C:\csharp\BookShow\BookShowBLL\obj\Debug\netcoreapp3.1\BookShowBLL.csproj.AssemblyReference.cache
+C:\csharp\BookShow\BookShowBLL\obj\Debug\netcoreapp3.1\BookShowBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\BookShow\BookShowBLL\obj\Debug\netcoreapp3.1\BookShowBLL.AssemblyInfoInputs.cache
+C:\csharp\BookShow\BookShowBLL\obj\Debug\netcoreapp3.1\BookShowBLL.AssemblyInfo.cs
+C:\csharp\BookShow\BookShowBLL\obj\Debug\netcoreapp3.1\BookShowBLL.csproj.CoreCompileInputs.cache
+C:\csharp\BookShow\BookShowBLL\obj\Debug\netcoreapp3.1\BookShowBLL.dll
+C:\csharp\BookShow\BookShowBLL\obj\Debug\netcoreapp3.1\BookShowBLL.pdb
