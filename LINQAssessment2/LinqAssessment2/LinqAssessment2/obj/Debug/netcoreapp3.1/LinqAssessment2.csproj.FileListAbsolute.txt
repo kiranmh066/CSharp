@@ -1,0 +1,14 @@
+C:\csharp\LinqAssessment2\LinqAssessment2\bin\Debug\netcoreapp3.1\LinqAssessment2.exe
+C:\csharp\LinqAssessment2\LinqAssessment2\bin\Debug\netcoreapp3.1\LinqAssessment2.deps.json
+C:\csharp\LinqAssessment2\LinqAssessment2\bin\Debug\netcoreapp3.1\LinqAssessment2.runtimeconfig.json
+C:\csharp\LinqAssessment2\LinqAssessment2\bin\Debug\netcoreapp3.1\LinqAssessment2.runtimeconfig.dev.json
+C:\csharp\LinqAssessment2\LinqAssessment2\bin\Debug\netcoreapp3.1\LinqAssessment2.dll
+C:\csharp\LinqAssessment2\LinqAssessment2\bin\Debug\netcoreapp3.1\LinqAssessment2.pdb
+C:\csharp\LinqAssessment2\LinqAssessment2\obj\Debug\netcoreapp3.1\LinqAssessment2.csproj.AssemblyReference.cache
+C:\csharp\LinqAssessment2\LinqAssessment2\obj\Debug\netcoreapp3.1\LinqAssessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\LinqAssessment2\LinqAssessment2\obj\Debug\netcoreapp3.1\LinqAssessment2.AssemblyInfoInputs.cache
+C:\csharp\LinqAssessment2\LinqAssessment2\obj\Debug\netcoreapp3.1\LinqAssessment2.AssemblyInfo.cs
+C:\csharp\LinqAssessment2\LinqAssessment2\obj\Debug\netcoreapp3.1\LinqAssessment2.csproj.CoreCompileInputs.cache
+C:\csharp\LinqAssessment2\LinqAssessment2\obj\Debug\netcoreapp3.1\LinqAssessment2.dll
+C:\csharp\LinqAssessment2\LinqAssessment2\obj\Debug\netcoreapp3.1\LinqAssessment2.pdb
+C:\csharp\LinqAssessment2\LinqAssessment2\obj\Debug\netcoreapp3.1\LinqAssessment2.genruntimeconfig.cache
